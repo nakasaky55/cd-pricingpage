@@ -1,0 +1,51 @@
+.navbar-right{
+    justify-content: flex-end;
+}
+
+#cd-logo svg{
+    height: 200px;
+}
+
+#nav-logo{
+    width: 155px;
+    height: 173px;
+}
+
+.container{
+    background-color: #f8f9fade;
+}
+
+.container-custom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top:100px;
+    min-height: 650px;
+}
+
+.row-custom{
+    display: flex;
+    justify-content: center;
+}
+
+.custom-card{
+    width: 100% !important;
+}
+
+.custom-form{
+    width: 100%;
+    padding-top: 40px;
+    align-items: flex-start !important;
+    min-height: 650px;
+}
+
+.container-fluid{
+    background: linear-gradient(#f037a5 -60%,#fae62d 140%);
+}
+
+.custom-btn{
+    background-color: #dc3545;
+    color: white;
+}
